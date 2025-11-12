@@ -5,7 +5,7 @@
    b. Strings, Structures
    c. User Defined Functions
    d. File Handling (Binary)
-2. Functional
+2. Functional Requirements -
    a. <stdlib.h>
    b. <string.h>
 3. Abstract -
