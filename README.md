@@ -1,4 +1,4 @@
-# <h6 align="center">Patient Management System</h6>
+# <h1 align="center">Patient Management System</h1>
 
 ---
 
