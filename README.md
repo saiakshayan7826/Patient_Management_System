@@ -160,7 +160,7 @@ patient_management.exe
   <img src="screenshots/delete_patient.png" width="500">
 </p>
 
-### **6. Exit**
+### **7. Exit**
 
 <p align="center">
   <img src="screenshots/exit_patient.png" width="500">
