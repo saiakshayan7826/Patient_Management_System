@@ -293,11 +293,12 @@ void loadPatients(Patient Patients[], int *count) {
 }
 
 void writeAllPatients(Patient Patients[], int count) {
-    FILE *fp = fopen(FILE_NAME, "wb");
+    FILE *fp = fopen(FILE_NAME, "ab");
     if (!fp) {
         perror("Error opening file");
         return;
     }
     fwrite(Patients, sizeof(Patient), count, fp);
     fclose(fp);
+
 }   
